@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "562878945580",
+    "firebase_url": "https://fir-test-project-c7d3e-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fir-test-project-c7d3e",
+    "storage_bucket": "fir-test-project-c7d3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562878945580:android:03c9a4a070650faf42b489",
+        "android_client_info": {
+          "package_name": "com.Company.EGTMarsMission.TestFirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562878945580-9hqthmi73f620jd6bhkan1hnvrvleevg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Company.EGTMarsMission.TestFirebase",
+            "certificate_hash": "560adacc8aa7136120b6cff0602643fdf3747977"
+          }
+        },
+        {
+          "client_id": "562878945580-sesjp5jrp1juj9fcus26ttemtncdpoeo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT6NhXTM9jWFIbkCiB_1uSgNx9_8eCtxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562878945580-sesjp5jrp1juj9fcus26ttemtncdpoeo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "562878945580-tieupg9ffpsso454jgcmne4mo93q63gc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Company.EGTMarsMission.TestFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
